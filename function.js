@@ -13,4 +13,7 @@ function () => {
 const wname = function (){
   console.log("This is anonymous function ");
 }
-
+// first class function 
+const fclassfunction = function () {
+  console.log("this is first class function");
+}
