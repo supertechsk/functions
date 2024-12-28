@@ -17,3 +17,13 @@ const wname = function (){
 const fclassfunction = function () {
   console.log("this is first class function");
 }
+// callback function 
+function a(){
+  console.log("this is a sample function")
+}
+function callback(){
+  console.log("this is callback function");
+}
+  
+const res = callback(a);
+console.log(res);
