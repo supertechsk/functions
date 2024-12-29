@@ -18,12 +18,12 @@ const fclassfunction = function () {
   console.log("this is first class function");
 }
 // callback function 
-function a(){
+function b(){
   console.log("this is a sample function")
 }
 function callback(){
   console.log("this is callback function");
 }
   
-const res = callback(a);
+const res = callback(b);
 console.log(res);
