@@ -28,3 +28,9 @@ function callback(){
 const res = callback(b);
 console.log(res);
 // map function
+const arr = [1,2,3,4];
+function double(){
+  return arr * 2 ;
+}
+const newarr = map(double);
+console.log(newarr);
