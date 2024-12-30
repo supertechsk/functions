@@ -27,3 +27,4 @@ function callback(){
   
 const res = callback(b);
 console.log(res);
+// map function
