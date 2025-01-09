@@ -1,8 +1,8 @@
 // functions
-function add(a,b){
+function addition(a,b){
   return a+b;
 }
-const res = add(3,4);
+const res = addition(3,4);
 console.log(res);
 
 //arrow function 
