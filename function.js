@@ -2,7 +2,7 @@
 function addition(a,b){
   return a+b;
 }
-const res = addition(3,4);
+const res = addition(5,4);
 console.log(res);
 
 //arrow function 
