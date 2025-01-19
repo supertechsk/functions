@@ -19,7 +19,7 @@ const fclassfunction = function () {
 }
 // callback function 
 function b(){
-  console.log("this is a sample function")
+  console.log("this is a Sample function")
 }
 function callback(){
   console.log("this is callback function");
