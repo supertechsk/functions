@@ -1,5 +1,5 @@
  function x(){
-    console.log("x")
+    console.log("print x")
 
   };
   
