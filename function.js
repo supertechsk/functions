@@ -1,4 +1,4 @@
-// functions
+// Simple functions
 function addition(a,b){
   return a+b;
 }
